@@ -2,7 +2,7 @@
 # Verosimilitud Caso Poisson
 #==================================================================================
 #Data
-n = 20
+n = 10
 lambda0 = 5
 Xobs = rpois(n, lambda0)
 Xobs
